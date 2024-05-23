@@ -1,0 +1,5 @@
+Project Title: WiFi Trolley Bot
+
+Abinash S     | 225003003 | III B. Tech CSE 'C'
+Srivatsan N   | 225003156 | III B. Tech CSE 'C'
+Hari Prasad S | 225003042 | III B. Tech CSE 'C'
