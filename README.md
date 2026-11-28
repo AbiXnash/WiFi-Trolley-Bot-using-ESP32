@@ -6,8 +6,7 @@ A WiFi-controlled trolley bot, built as a III B.Tech CSE IIoT project by Abinash
 The board runs its own WiFi access point and a small web server. A phone app sends driving commands over HTTP, and
 the board drives two DC motors through an L298N motor driver.
 
-> The repository name says ESP32, but the sketch is written for an **ESP8266 (NodeMCU)** board: it uses
-> `ESP8266WiFi` and `ESP8266WebServer`.
+The sketch is written for an **ESP8266 (NodeMCU)** board, using `ESP8266WiFi` and `ESP8266WebServer`.
 
 ## Hardware
 
